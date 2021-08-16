@@ -4,3 +4,4 @@
 2. Outline Extraction From Forms
 3. CIFAR-10 Classification 
 4. Dogs and Cats Classification - Transfer Learning - VGG16
+5. Number Plate Detection
