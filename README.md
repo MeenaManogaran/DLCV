@@ -5,3 +5,5 @@
 3. CIFAR-10 Classification 
 4. Dogs and Cats Classification - Transfer Learning - VGG16
 5. Number Plate Detection
+6. Open CV Basic Operations
+
